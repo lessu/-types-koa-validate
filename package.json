@@ -1,0 +1,20 @@
+{
+  "name": "@types/koa-validate",
+  "version": "1.0.0",
+  "description": "typescript description for koa-validate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "types",
+    "koa",
+    "koa-validate"
+  ],
+  "dependencies": {
+    "@types/validator": "^6.2.2",
+    "@types/koa": "^2.0.39"
+  },
+  "author": "lessu",
+  "license": "MIT"
+}

@@ -1,6 +1,6 @@
 // Type definitions for koa-validate v0.2 https://github.com/RocksonZeta/koa-validate
 // Project: @types/koa-valiate
-// Definitions by: lessu <https://github.com/lessu>
+// Definitions by: lessu <https://github.com/lessu/types-koa-validate>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 /**================================
